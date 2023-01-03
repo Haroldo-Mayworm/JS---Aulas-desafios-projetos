@@ -117,3 +117,12 @@ var cachorro = {
   }
 }
 // console.log(cachorro.latir('homem'));
+
+// Algumas propriedades
+
+var dificuldade = 'normal';
+
+// console.log(dificuldade.length);
+// console.log(dificuldade.charAt(2));
+// console.log(dificuldade.replace('', 'mente'));
+// console.log(dificuldade.replace('mal', 'bem'));
